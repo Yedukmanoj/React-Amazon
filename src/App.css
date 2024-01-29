@@ -1,0 +1,177 @@
+*
+{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body
+{
+  background-color: #d3cbcb;
+}
+.main
+{
+  background-color: rgb(1, 1, 34);
+  height: 50vh;
+  width: 100%;
+}
+.navbar
+{
+  background-color: rgb(5, 5, 65);
+  display: flex;
+}
+.logo
+{
+  height: 70px;
+  width: 150px;
+  margin-left: 30px;
+ 
+}
+.navbar h3
+{
+  color: white;
+  margin-left: 1100px;
+}
+.find
+{
+  text-align: center;
+  margin-top: 20px;
+}
+.find h2
+{
+  color: #fff;
+  margin: 10px;
+}
+.find input
+{
+  height: 30px;
+  width: 300px;
+  margin: 10px;
+}
+.find ::placeholder
+{
+  color: black;
+}
+.view
+{
+  display: flex;
+  padding: 40px;
+  padding-left: 200px;
+  background-color:rgb(144, 175, 183);
+  
+}
+.view .card
+{
+ border-radius: 0%;
+ text-align: center;
+ height: 250px;
+ 
+}
+.view input
+{
+ margin-top: 30px;
+ height: 35px;
+ width: 250px;
+ text-align: center;
+ border: 1px solid black;
+ font-size: 15px;
+}
+.view ::placeholder
+{
+  color: black;
+}
+.explore h1
+{
+  text-align: center;
+  margin: 20px;
+}
+.cards 
+{
+  display: flex;
+  padding: 30px;
+  margin: 50px;
+}
+.cards .card
+{
+  padding: 10px;
+  margin: 30px;
+}
+.cards a
+{
+  text-decoration: none;
+}
+.build
+{
+  background-color: rgb(0, 128, 255);
+  height: 60vh;
+}
+.build h1 
+{
+  color: #fff;
+  padding-top: 30px;
+  margin-left: 100px;
+}
+.build p
+{
+  color: white;
+  padding-top: 30px;
+  margin-left: 100px;
+  margin-right:1000px ;
+  font-size: 20px;
+}
+.build input
+{
+ height: 40px;
+ width: 300px;
+ margin-top: 20px;
+ margin-left: 100px;
+ text-align: center;
+ background-color: transparent;
+ border: 2px solid white;
+}
+::placeholder
+{
+  color: rgb(243, 235, 235);
+  font-size: 17px;
+}
+.footer
+{
+  background-color: rgb(7, 19, 61);
+}
+.joind h3
+{
+ color: rgb(255, 72, 0);
+ padding: 30px;
+ padding-left: 200px;
+ border: 3px solid black;
+ 
+}
+.last
+{
+  display: flex;
+  
+}
+.find
+{
+  height: 50vh;
+  width: 300px;
+  padding: 20px;
+  text-align: left;
+  margin-left: 100px;
+}
+.find h3
+{
+  color:  rgb(255, 72, 0);
+}
+.find p
+{
+  color: white;
+}
+.lan input
+{
+  height: 35px;
+  width: 200px;
+  background-color: transparent;
+  border: 1px solid white;
+  text-align: center;
+  margin-top: 70px;
+}
